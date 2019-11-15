@@ -1,0 +1,6 @@
+[submodule "WordPress"]
+	path = WordPress
+	url = git@github.com:WordPress/WordPress.git
+[submodule "content/themes/thepress"]
+	path = content/themes/thepress
+	url = git@github.com:theandersonn/thepress.git
