@@ -8,3 +8,6 @@ define( 'DB_NAME', 'local_db_name' );
 define( 'DB_USER', 'local_db_user' );
 define( 'DB_PASSWORD', 'local_db_password' );
 define( 'DB_HOST', 'localhost' ); // Probably 'localhost'
+
+// define( 'WP_CONTENT_URL', 'http://localhost/project-name/content' );
+// define( 'WP_CONTENT_URL', 'http://localhost:4500/project-name/content' );
